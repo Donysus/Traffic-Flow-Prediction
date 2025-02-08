@@ -1,6 +1,6 @@
 # AI‑Based Traffic Flow Prediction
 
-This project develops a High tier traffic flow prediction model using an advanced bidirectional LSTM network. It generates synthetic traffic data that incorporates daily cycles, weekly patterns, rush-hour peaks, and random incidents, and then forecasts traffic over a one‑hour horizon.
+This project develops a High-tier traffic flow prediction model using an advanced bidirectional LSTM network. It generates synthetic traffic data that incorporates daily cycles, weekly patterns, rush-hour peaks, and random incidents, and then forecasts traffic over a one‑hour horizon.
 
 ## Features
 
